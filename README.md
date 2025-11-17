@@ -10,6 +10,24 @@ Beautiful animations and hover effects
 Lucide React icons for a polished look
 
 Key Tailwind concepts demonstrated:
+Tailwind v4 is here! Learn how to upgrade your current project and explore the new features with Flowbite
+A few days ago the developers from Tailwind officially announced the v4-beta which means that you can now officially start playing around with the new version of Tailwind.
+
+Zoltán Szőgyényi profile picture
+Zoltán Szőgyényi
+Read more
+#Tailwind CSS#Flowbite#Figma
+Published a year ago
+We have launched over 80+ components in E-commerce UI and there's more to come!
+I am thrilled to share the latest updates from Flowbite! Since our last communication, our team has been hard at work, and we are excited to announce the launch of over 85 new E-commerce UI components and blocks.
+
+Zoltán Szőgyényi profile picture
+Zoltán Szőgyényi
+Read more
+#Flowbite
+Published 3 years ago
+State of Flowbite: learn more about our results from 2022 and what we plan to build this year
+Learn more about the results, achievements and plans for the future by reading the "State of Flowbite 2022" including the open-source development of the Flowbite Library, the release of new UI components, features, and more.
 
 Gradient backgrounds (bg-gradient-to-br)
 Glass effect with backdrop blur (backdrop-blur-lg)
